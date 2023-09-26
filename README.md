@@ -5,8 +5,7 @@ This repository contains a collection of scripts and tools I've developed over t
 ## Table of Contents
 - [Introduction](#introduction)
 - [Disclaimer](#disclaimer)
-- [Setup & Installation](#setup--installation)
-- [Usage](#usage)
+- [Repository Contents](#Repository-Contents)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -22,30 +21,11 @@ It's crucial to understand that web scraping can be legally and ethically compli
 - Understand the legal implications and ensure you have permission to scrape and use the data.
 - The scripts are provided for educational purposes. Use them responsibly.
 
-## Setup & Installation
+## Repository Contents
 
-Most scripts in this repository are written in Python. Ensure you have Python installed and set up on your machine.
+### [Python files](https://github.com/Saisudhirn/Scraping_craft/tree/main/Python%20files)
+This folder contains various Python scripts I've developed for web scraping. Browse through the directory to explore each script and its functionality.
 
-1. Clone the repository:
-```
-git clone [Your Repository URL]
-```
-
-2. Navigate to the script's directory and install the required packages:
-```
-cd [Script Directory]
-pip install -r requirements.txt
-```
-
-## Usage
-
-Each script or tool might have its usage instructions. Generally, you can run a script using:
-
-```
-python script_name.py
-```
-
-For detailed usage instructions, refer to the README or documentation associated with each script.
 
 ## Contribution
 
